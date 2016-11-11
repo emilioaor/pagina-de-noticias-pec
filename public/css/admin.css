@@ -1,0 +1,25 @@
+header{
+	background: #9E0015;
+	color: #fff;
+}
+nav{
+	background: #333;
+}
+nav a{
+	color: #fff;
+	font-size: 18px;
+}
+nav a:hover{
+	color: #9E0015;
+}
+
+.pagination .active span{
+	background: #9E0015;
+}
+.pagination .active span:hover{
+	background: #CF001B;
+}
+
+.nav-tabs{
+	margin-top: 20px;
+}
